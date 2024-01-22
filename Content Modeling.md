@@ -1,0 +1,1 @@
+https://prismic.io/blog/content-modeling?ref=dailydev
